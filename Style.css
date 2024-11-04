@@ -1,0 +1,66 @@
+body {
+    margin: 0%;
+}
+
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+hr {
+    margin: 0%;
+    border-top: 20px solid #A0D718; 
+
+}
+
+img {
+    margin: 0%;
+    width: 100%;    
+}
+
+.groen {
+    color: #A0D718; 
+
+}
+
+
+
+
+body.home {
+    background-image: url(foto/Besteoptie.png);
+    background-size: cover;
+
+}
+
+body.Omgeving {
+    background-image: url(foto/Omgeving.png);
+    background-size: cover;
+
+}
+
+body.Over-Cafe {
+    background-image: url(foto/overcafe1.png);
+    background-size: cover;
+
+
+}
+Nav ul {
+    font-size: 35px;
+    display: flex;
+    position:fixed; bottom: 0;
+    list-style-type: none;
+    margin-bottom: 0%;
+    margin-top: 4.5%;
+    width: 100%;
+    justify-content: center;
+}
+
+Nav li {
+    margin: 0 80px;
+    background-color: #A0D718;
+    padding: 20px;
+    padding-bottom: 50px;
+     
+}
+
